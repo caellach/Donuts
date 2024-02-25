@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -10,8 +10,8 @@ using HarmonyLib;
 using UnityEngine;
 
 //custom usings
-using BotCacheClass = GClass588;
-using IProfileData = GClass589;
+using BotCacheClass = GClass667;
+using IProfileData = GClass668;
 
 #pragma warning disable IDE0007, CS4014
 

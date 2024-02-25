@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -237,7 +237,7 @@ namespace Donuts
                 "2. Additional Spawn Settings",
                 "PMC Hotspot: Ignore Hard Cap",
                 false,
-                new ConfigDescription("If enabled, all hotspot spawn points will ignore the hard cap (if enabled). This applies to any spawn points labeled with 'Hotspot'. Strongly recommended to use this option + Despawn + Hardcap.".,
+                new ConfigDescription("If enabled, all hotspot spawn points will ignore the hard cap (if enabled). This applies to any spawn points labeled with 'Hotspot'. Strongly recommended to use this option + Despawn + Hardcap.",
                 null,
                 new ConfigurationManagerAttributes { IsAdvanced = false, Order = 9 }));
 
@@ -245,7 +245,7 @@ namespace Donuts
                 "2. Additional Spawn Settings",
                 "SCAV Hotspot: Ignore Hard Cap",
                 false,
-                new ConfigDescription("If enabled, all hotspot spawn points will ignore the hard cap (if enabled). This applies to any spawn points labeled with 'Hotspot'. Strongly recommended to use this option + Despawn + Hardcap.".,
+                new ConfigDescription("If enabled, all hotspot spawn points will ignore the hard cap (if enabled). This applies to any spawn points labeled with 'Hotspot'. Strongly recommended to use this option + Despawn + Hardcap.",
                 null,
                 new ConfigurationManagerAttributes { IsAdvanced = false, Order = 9 }));
 

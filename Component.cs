@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -21,8 +21,8 @@ using UnityEngine;
 using UnityEngine.AI;
 
 //custom using
-using BotCacheClass = GClass588;
-using IProfileData = GClass589;
+using BotCacheClass = GClass667;
+using IProfileData = GClass668;
 using CorePointFinder = AICorePointHolder;
 
 #pragma warning disable IDE0007, IDE0044
